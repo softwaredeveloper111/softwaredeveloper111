@@ -69,15 +69,15 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 <br/>
 
 <p>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/souravgiri111">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="YOUR_TWITTER">
+  <a href="https://x.com/SouravG11413973">
     <img src="https://img.shields.io/badge/-Twitter%2Fx-black?style=for-the-badge&logo=X" />
   </a>
 
-  <a href="YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/sourav___giri">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -91,7 +91,7 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/u/40HxGpE0YL/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
