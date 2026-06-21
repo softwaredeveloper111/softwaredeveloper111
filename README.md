@@ -252,9 +252,14 @@ Feel free to connect if you are working on exciting products, open-source projec
 <hr>
 <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/814453be-5298-4dfe-a1ae-80bda70247b6" />
 
+
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=30363d&width=2000" width="100%"/>
 </p>
+
+
+
+<!--  Animated snake section --> 
 
 
 <picture>
@@ -264,6 +269,9 @@ Feel free to connect if you are working on exciting products, open-source projec
 </picture>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=30363d&width=2000" width="100%"/>
+</p>
 
 
 
