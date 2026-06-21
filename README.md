@@ -275,9 +275,34 @@ Feel free to connect if you are working on exciting products, open-source projec
 
 
 
+<!-- github stats card profile -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=softwaredeveloper111&show_icons=true&theme=radical&title_color=ff6ec7&text_color=ffffff&icon_color=ffcc00&border_color=30363d&bg_color=0d1117&rank_icon=github" height="180"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=softwaredeveloper111&theme=radical&background=0d1117&border=30363d&ring=ff6ec7&fire=ffcc00&currStreakLabel=ffcc00&sideLabels=ffffff&dates=ffffff&stroke=30363d" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaredeveloper111&layout=compact&theme=radical&title_color=ff6ec7&text_color=ffffff&bg_color=0d1117&border_color=30363d" height="180"/>
+</p>
 
 
 
+
+
+<!-- graph  -->
+
+<h2 align="left">📈 Contribution Graph</h2>
+
+ &nbsp;
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwaredeveloper111&bg_color=0d1117&color=4fc3f7&line=1565c0&point=4fc3f7&area=true&area_color=1565c0&title_color=4fc3f7&border_color=30363d" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=30363d&width=2000" width="100%"/>
+</p>
 
 
 
