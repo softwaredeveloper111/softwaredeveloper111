@@ -51,7 +51,7 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravgiri&label=Profile%20views&color=0e75b6&style=flat" alt="souravgiri" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=souravgiri&label=Profile%20views&color=0e75b6&style=flat" alt="souravgiri" /></p>
 
 <table>
 <tr>
@@ -107,3 +107,6 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 </table>
 
 
+<br/>
+<hr style="height:2px;border:none;background:#30363d;">
+<br/>
