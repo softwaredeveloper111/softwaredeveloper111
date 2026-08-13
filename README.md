@@ -171,7 +171,13 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 
 <!-- ==================== DEVELOPER PROFILE ==================== -->
 
-<h2 align="center">⚡ Developer Profile</h2>
+<p align="center">
+  <span style="font-size: 28px; font-weight: bold;">
+    ⚡ Developer Profile
+  </span>
+</p>
+
+However,
 
 <table align="center">
 <tr>
