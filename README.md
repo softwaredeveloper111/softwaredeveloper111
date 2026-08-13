@@ -121,7 +121,7 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,js,typescript,python" />
 
 </p>
 
@@ -156,17 +156,8 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-Production%20Apps-lightgrey?style=flat" alt="Next.js">
-<img src="https://img.shields.io/badge/license-End%20to%20End%20Development%20Stack-green?style=flat" alt="license">
-<img src="https://img.shields.io/badge/-Full%20Stack%20Engineering-red?style=flat" alt="">
-<img src="https://img.shields.io/badge/LLM-Agentic%20AI%20Stack-important?style=flat" alt="LLM">
-</p>
-
-<hr style="height:1px;border:none;background:#30363d;">
 
 
-<br/>
 
 
 <!-- ==================== DEVELOPER PROFILE ==================== -->
@@ -336,19 +327,7 @@ Full-stack application for fetching video metadata and downloading audio/video f
 
 <br/>
 <br/>
-<!-- ==================== EDUCATION ==================== -->
 
-<h2 align="center">🎓 Education</h2>
-<p></p>
-
-<p >
-  <b>B.Tech Graduate · 2023</b>
-  <br>
-  <span style="line-height: 1;">Haldia Institute of Technology (HIT)</span>
-</p>
-
-<br/>
-<br/>
 <!-- ==================== ENGINEERING MINDSET ==================== -->
 
 <table align="center">
