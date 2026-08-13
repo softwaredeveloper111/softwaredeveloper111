@@ -416,9 +416,9 @@ and grow as a software engineer.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softwaredeveloper111&show_icons=true&theme=radical" height="170" />
+ <img src="https://github-stats-extended.vercel.app/api?username=softwaredeveloper111&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwaredeveloper111&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaredeveloper111&layout=compact&theme=radical" height="170" />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=softwaredeveloper111&layout=compact&theme=radical" height="170" />
 </p>
 
 
