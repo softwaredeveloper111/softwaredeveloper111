@@ -169,80 +169,234 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 <br/>
 
 
-<!--  About me section  -->
+<!-- ==================== DEVELOPER PROFILE ==================== -->
 
-<h3 align="center">🌟 About Me 🌟</h3>
+<h2 align="center">⚡ Developer Profile</h2>
 
-<p align="center">
-I am a Full Stack Developer focused on building scalable end-to-end web applications using modern JavaScript technologies.
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+<h3>👨‍💻 Who I Am</h3>
+
+<p>
+Full Stack Developer focused on building <b>production-grade web applications</b>
+with modern JavaScript and TypeScript technologies.
 </p>
 
-<p align="center">
-My core expertise includes React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Redis, TypeScript, and modern frontend technologies. I also work with advanced concepts such as System Design, Distributed Systems, Docker, Cloud Infrastructure, and Real-Time Applications.
+<p>
+I enjoy working across the stack — from <b>React & Next.js</b> on the frontend
+to <b>Node.js, PostgreSQL, MongoDB & Redis</b> on the backend.
 </p>
 
-<p align="center">
-Beyond traditional web development, I actively explore Agentic AI, LangGraph, and AI-powered workflows. I enjoy designing clean architectures, optimizing application performance, and solving complex engineering problems through practical product development.
+<p>
+Currently exploring <b>System Design, Distributed Systems, Cloud Infrastructure
+and Agentic AI</b> while building real-world products.
 </p>
 
+</td>
+
+<td width="45%" valign="top">
+
+<h3>🎯 Engineering Focus</h3>
+
 <p align="center">
-I have built projects ranging from AI-powered applications to real-time collaborative platforms, combining frontend, backend, databases, authentication systems, and cloud services into production-ready solutions.
+
+<img src="https://img.shields.io/badge/Full%20Stack-Engineering-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-Strong%20Typing-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-Scalable%20Systems-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
-<p align="center">
-My goal is to continuously improve as a Full Stack Developer while building impactful products that demonstrate strong engineering fundamentals, scalability, and business value.
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== CURRENTLY BUILDING ==================== -->
+
+<h2 align="center">🚀 Currently Building</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🏗️ Production Apps
+
+Building full-stack applications with:
+
+<br/>
+
+`React` • `Next.js` • `Node.js`
+
+`PostgreSQL` • `Redis` • `Docker`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Engineering Depth
+
+Currently sharpening:
+
+<br/>
+
+`DSA` • `System Design`
+
+`Distributed Systems`
+
+`Scalable Architecture`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI Engineering
+
+Exploring:
+
+<br/>
+
+`Agentic AI` • `LangGraph`
+
+`LLM Workflows`
+
+`AI-powered Products`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== PROJECTS ==================== -->
+
+<h2 align="center">🔥 Things I've Built</h2>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🎵 Moodify</h3>
+
+<p>
+AI-powered music recommendation platform that recommends songs based on the user's mood.
 </p>
 
-<h3 align="center">🎓 Education 🎓</h3>
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>⚡ CodeForge</h3>
+
+<p>
+Real-time collaborative code editor designed for live coding sessions and team collaboration.
+</p>
+
+<img src="https://img.shields.io/badge/Real--Time-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Collaboration-4FC3F7?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>📥 YouTube Downloader</h3>
+
+<p>
+Full-stack application for fetching video metadata and downloading audio/video formats.
+</p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ==================== EDUCATION ==================== -->
+
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
-<strong>B.Tech Graduate (2023)</strong><br/>
+
+<b>B.Tech Graduate · 2023</b>
+
+<br/>
+
 Haldia Institute of Technology (HIT)
+
 </p>
 
+<br/>
 
-<h3 align="center">🚀 Current Focus 🚀</h3>
+<!-- ==================== ENGINEERING MINDSET ==================== -->
 
-<p align="center">
-• Building Production-Grade Full Stack Applications <br/>
-• Practicing Data Structures & Algorithms <br/>
-• Learning System Design & Scalable Architectures <br/>
-• Exploring Agentic AI & LangGraph Workflows <br/>
-• Working with Docker, Redis, PostgreSQL & Cloud Technologies
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
+### 💡 Engineering Mindset
 
+<b>Build → Break → Debug → Learn → Ship → Repeat</b>
 
-<h3 align="center">💼 Featured Projects 💼</h3>
+<br/><br/>
 
-<p align="center">
-<strong>🎵 Moodify</strong><br/>
-AI-powered music recommendation platform that suggests songs based on user mood.
-</p>
+I prefer learning through <b>real products and real engineering problems</b>
+rather than simply completing tutorials.
 
-<p align="center">
-<strong>⚡ CodeForge</strong><br/>
-Real-time collaborative code editor supporting live coding sessions and team collaboration.
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<strong>📥 YouTube Downloader</strong><br/>
-Full Stack application for fetching video metadata and downloading audio/video formats.
-</p>
+<br/>
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">🤝 Let's Build Something</h2>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d"/>
-</p>
-
-<h3 align="center">🤝 Let's Connect 🤝</h3>
-
-<p align="center">
-I am actively seeking Full Stack Developer opportunities where I can contribute to meaningful products, collaborate with strong engineering teams, and continue growing as a software engineer.
+I'm actively looking for opportunities where I can contribute to
+<b>meaningful products</b>, work with strong engineering teams,
+and grow as a software engineer.
 </p>
 
 <p align="center">
-Feel free to connect if you are working on exciting products, open-source projects, startups, or hiring Full Stack Developers.
+
+<a href="https://www.linkedin.com/in/souravgiri111">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kiwi-os.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:computerscieenceengineer1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/40HxGpE0YL/">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
+
+<!-- ==================== END PROFILE ==================== -->
 
 <br/>
 
