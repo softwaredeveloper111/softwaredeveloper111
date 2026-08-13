@@ -171,13 +171,10 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 
 <!-- ==================== DEVELOPER PROFILE ==================== -->
 
-<p align="center">
-  <span style="font-size: 28px; font-weight: bold;">
-    ⚡ Developer Profile
-  </span>
+<p align="center" style="margin-bottom:0">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=⚡%20Developer%20Profile&fontSize=28&fontColor=ffffff&fontAlignY=55" />
 </p>
 
-However,
 
 <table align="center">
 <tr>
@@ -228,7 +225,9 @@ and Agentic AI</b> while building real-world products.
 
 <!-- ==================== CURRENTLY BUILDING ==================== -->
 
-<h2 align="center">🚀 Currently Building</h2>
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=🚀%20Currently%20Building&fontSize=28&fontColor=ffffff&fontAlignY=55" />
+</p>
 
 <table align="center">
 <tr>
@@ -283,10 +282,12 @@ Exploring:
 </table>
 
 <br/>
-
+<br/>
 <!-- ==================== PROJECTS ==================== -->
 
-<h2 align="center">🔥 Things I've Built</h2>
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=🔥%20Things%20I've%20Built&fontSize=28&fontColor=ffffff&fontAlignY=55" />
+</p>
 
 <table align="center">
 <tr>
@@ -334,23 +335,20 @@ Full-stack application for fetching video metadata and downloading audio/video f
 </table>
 
 <br/>
-
+<br/>
 <!-- ==================== EDUCATION ==================== -->
 
 <h2 align="center">🎓 Education</h2>
+<p></p>
 
-<p align="center">
-
-<b>B.Tech Graduate · 2023</b>
-
-<br/>
-
-Haldia Institute of Technology (HIT)
-
+<p >
+  <b>B.Tech Graduate · 2023</b>
+  <br>
+  <span style="line-height: 1;">Haldia Institute of Technology (HIT)</span>
 </p>
 
 <br/>
-
+<br/>
 <!-- ==================== ENGINEERING MINDSET ==================== -->
 
 <table align="center">
@@ -371,7 +369,7 @@ rather than simply completing tutorials.
 </table>
 
 <br/>
-
+<br/>
 <!-- ==================== CONNECT ==================== -->
 
 <h2 align="center">🤝 Let's Build Something</h2>
