@@ -430,7 +430,11 @@ and grow as a software engineer.
  &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwaredeveloper111&bg_color=0d1117&color=4fc3f7&line=1565c0&point=4fc3f7&area=true&area_color=1565c0&title_color=4fc3f7&border_color=30363d" width="100%"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=softwaredeveloper111&bg_color=0d1117&color=4fc3f7&line=1565c0&point=4fc3f7&area=true&area_color=1565c0&title_color=4fc3f7&border_color=30363d" width="100%"/> -->
+  <img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=softwaredeveloper111&theme=2077"
+  alt="GitHub Profile Summary"
+/>
 </p>
 
 <p align="center">
