@@ -274,6 +274,10 @@ Exploring:
 
 <br/>
 <br/>
+
+
+<!-- ==================== PROJECTS ==================== -->
+
 <!-- ==================== PROJECTS ==================== -->
 
 <p align="center" style="margin-bottom: 0;">
@@ -287,12 +291,18 @@ Exploring:
 
 <h3>🎵 Moodify</h3>
 
-<p>
-AI-powered music recommendation platform that recommends songs based on the user's mood.
-</p>
+<a href="https://moodify-three-zeta.vercel.app/">
+  <img 
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/Capture.PNG" 
+    alt="Moodify Project"
+    width="100%"
+  />
+</a>
 
-<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=flat-square"/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=for-the-badge"/>
 
 </td>
 
@@ -300,25 +310,37 @@ AI-powered music recommendation platform that recommends songs based on the user
 
 <h3>⚡ CodeForge</h3>
 
-<p>
-Real-time collaborative code editor designed for live coding sessions and team collaboration.
-</p>
+<a href="https://codeforge-a-real-time-code-editor.onrender.com/">
+  <img 
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/Capture_RQKRzW8yJ.PNG" 
+    alt="CodeForge Project"
+    width="100%"
+  />
+</a>
 
-<img src="https://img.shields.io/badge/Real--Time-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Collaboration-4FC3F7?style=flat-square"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Real--Time-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaboration-4FC3F7?style=for-the-badge"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<h3>📥 YouTube Downloader</h3>
+<h3>🎨 Figma Editor</h3>
 
-<p>
-Full-stack application for fetching video metadata and downloading audio/video formats.
-</p>
+<a href="https://interbatch-showdown-hackathon-figma.vercel.app/">
+  <img 
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/Capture_MWjto1bqby.PNG" 
+    alt="Figma Editor Project"
+    width="100%"
+  />
+</a>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Figma-Editor-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Interactive-8B5CF6?style=for-the-badge"/>
 
 </td>
 
