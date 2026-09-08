@@ -174,7 +174,7 @@ Building End-to-End Applications • Solving DSA • Exploring Agentic AI
 <h3>👨‍💻 Who I Am</h3>
 
 <p>
-Full Stack Developer focused on building <b>production-grade web applications</b>
+Full Stack AI Developer focused on building <b>production-grade web applications</b>
 with modern JavaScript and TypeScript technologies.
 </p>
 
@@ -190,23 +190,13 @@ and Agentic AI</b> while building real-world products.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
-<h3>🎯 Engineering Focus</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Engineering-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-Strong%20Typing-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/System%20Design-Scalable%20Systems-FF6B6B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
+<img
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/study%20me.png"
+    alt="Study Me"
+    width="100%"
+  />
 
 </td>
 </tr>
