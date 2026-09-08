@@ -339,7 +339,7 @@ Exploring:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Figma-Editor-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Interactive-8B5CF6?style=for-the-badge"/>
 
 </td>
