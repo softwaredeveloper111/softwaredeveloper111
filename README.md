@@ -206,56 +206,83 @@ and Agentic AI</b> while building real-world products.
 
 <!-- ==================== CURRENTLY BUILDING ==================== -->
 
+<!-- ==================== CURRENTLY BUILDING ==================== -->
+
 <p align="center" style="margin-bottom: 0;">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=🚀%20Currently%20Building&fontSize=28&fontColor=ffffff&fontAlignY=55" />
 </p>
 
-<table align="center">
+<table  align="center">
 <tr>
 
+<!-- Production Apps -->
 <td align="center" width="33%">
 
-### 🏗️ Production Apps
+<h3>🏗️ Production Apps</h3>
 
-Building full-stack applications with:
+<p>
+Building full-stack<br/>
+applications with:
+</p>
 
-<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-`React` • `Next.js` • `Node.js`
 
-`PostgreSQL` • `Redis` • `Docker`
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </td>
 
+
+<!-- Engineering Depth -->
 <td align="center" width="33%">
 
-### 🧠 Engineering Depth
+<h3>🧠 Engineering Depth</h3>
 
+<p>
 Currently sharpening:
+</p>
 
-<br/>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge"/>
 
-`DSA` • `System Design`
 
-`Distributed Systems`
 
-`Scalable Architecture`
+<img src="https://img.shields.io/badge/Distributed%20Systems-06B6D4?style=for-the-badge"/>
+
+
+
+<img src="https://img.shields.io/badge/Scalable%20Architecture-F59E0B?style=for-the-badge"/>
 
 </td>
 
+
+<!-- AI Engineering -->
 <td align="center" width="33%">
 
-### 🤖 AI Engineering
+<h3>🤖 AI Engineering</h3>
 
+<p>
 Exploring:
+</p>
 
-<br/>
+<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-10B981?style=for-the-badge"/>
 
-`Agentic AI` • `LangGraph`
 
-`LLM Workflows`
 
-`AI-powered Products`
+<img src="https://img.shields.io/badge/LLM%20Workflows-3B82F6?style=for-the-badge"/>
+
+
+
+<img src="https://img.shields.io/badge/AI--powered%20Products-EC4899?style=for-the-badge"/>
 
 </td>
 
