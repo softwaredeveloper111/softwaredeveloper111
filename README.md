@@ -352,22 +352,15 @@ Exploring:
 
 <!-- ==================== ENGINEERING MINDSET ==================== -->
 
-<table align="center">
-<tr>
-<td align="center">
+<!-- ==================== ENGINEERING MINDSET ==================== -->
 
-### 💡 Engineering Mindset
-
-<b>Build → Break → Debug → Learn → Ship → Repeat</b>
-
-<br/><br/>
-
-I prefer learning through <b>real products and real engineering problems</b>
-rather than simply completing tutorials.
-
-</td>
-</tr>
-</table>
+<p align="center" style="margin: 0; padding: 0;">
+  <img
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/ChatGPT%20Image%20Sep%208,%202026,%2009_37_19%20PM%20(1).png"
+    alt="Engineering Mindset"
+    width="100%"
+  />
+</p>
 
 <br/>
 <br/>
