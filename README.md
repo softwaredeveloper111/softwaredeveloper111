@@ -46,7 +46,11 @@
 
 
 <h3 align="center">
-Building End-to-End Applications • Solving DSA • Exploring Agentic AI
+  🚀 <b>Building End-to-End Applications</b>
+  <span> • </span>
+  🧠 <b>Solving DSA</b>
+  <span> • </span>
+  🤖 <b>Exploring Agentic AI</b>
 </h3>
 
 <br/>
