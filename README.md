@@ -348,19 +348,19 @@ Exploring:
 
 <td width="33%" align="center">
 
-<h3>🎨 Figma Editor</h3>
+<h3>⚙ Inquis</h3>
 
-<a href="https://interbatch-showdown-hackathon-figma.vercel.app/">
+<a href="https://app.techy.fun">
   <img 
-    src="https://ik.imagekit.io/a490stdk4/github%20assets/Capture_MWjto1bqby.PNG" 
-    alt="Figma Editor Project"
+    src="https://ik.imagekit.io/a490stdk4/github%20assets/Inquis%20AI%20Assistant%20Feature%20Showcase.png" 
+    alt="Inquis"
     width="100%"
   />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inquis-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Interactive-8B5CF6?style=for-the-badge"/>
 
 </td>
